@@ -1,0 +1,35 @@
+aluno : Arthur Cordeiro Urbano.
+
+Matrícula : 1368098.
+
+1.
+	Existem outras funções para olhar o grau de crescimento de uma função. Porém, as 3 mais citada são:
+	
+		.f(n) = Θ(g(n)) 
+		.f(n) = O(g(n))) 
+		.f(n) = Ω(g(n))).
+
+	Onde, O(g(n))) analisa o limite superior de uma determinada função, ou seja, qual seria a o f(x) máximo que poderia ser alcançado em função da coordenada x.
+
+	Ω(g(n))) analisa o limite inferior de uma determinada função, ou seja, qual seria o f(x) minimo que poderia ser alcançado em função da coordenada x.
+
+	Θ(g(n)) analisa o limite i"intermediário" de uma determinada função, ou seja, qual seria o f(x) minimo e máximo que poderia ser alcançado em função da coordenada x. Sim , Θ(g(n)) é uma desigualdade dupla. 
+
+
+2.
+
+
+3.
+	
+	a) V
+	b) F
+	c) V
+	d) V
+
+4.
+
+	
+5.
+	O pior caso seria Cd(n) = 10 −5 × e ** n, por ser uma função exponencial.
+	O melhor caso seria Ca(n) = 100 × n × log n, por ser uma função logarítimica.
+	Os casos médios seriam Cb(n) = 1000 × n, Cc(n) = 4 × n 2 , por estarem no intervalo entre Cd(n) e Ca(n).
